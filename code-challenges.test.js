@@ -1,6 +1,5 @@
 // UNIT 4: JavaScript Coding Practical Questions with Jest
 
-const { describe } = require("node:test");
 
 // Please read all questions thoroughly. If you get stuck, please leave comments to help us understand your thought process.
 
